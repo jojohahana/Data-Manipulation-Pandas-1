@@ -1,5 +1,5 @@
-## DataFrame & Series ##
-#Di Pandas terdapat 2 kelas data baru yang digunakan sebagai struktur dari spreadsheet:
+# DataFrame & Series ##
+# Di Pandas terdapat 2 kelas data baru yang digunakan sebagai struktur dari spreadsheet:
 
 #1. Series: satu kolom bagian dari tabel dataframe yang merupakan 1 dimensional numpy array 
 #sebagai basis datanya, terdiri dari 1 tipe data (integer, string, float, dll).
